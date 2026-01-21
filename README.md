@@ -1,5 +1,7 @@
 # 👤 Active Directory User Creation Using PowerShell
 
+https://www.loom.com/share/d7f98a6f2bc243798183aff42a4f1524
+
 ## 🎯 Objective
 This lab documents the process of creating a new user account in **Active Directory** using **PowerShell scripts**. The goal is to demonstrate how automation can streamline user provisioning and reduce manual administrative tasks in a Windows domain environment.
 
