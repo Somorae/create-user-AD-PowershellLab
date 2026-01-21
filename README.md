@@ -1,5 +1,6 @@
 # 👤 Active Directory User Creation Using PowerShell
 
+## 🎬 Watch Me Build This Lab!
 https://www.loom.com/share/d7f98a6f2bc243798183aff42a4f1524
 
 ## 🎯 Objective
